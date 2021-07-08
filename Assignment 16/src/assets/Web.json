@@ -1,0 +1,24 @@
+[{
+
+  "courseid":"html5",
+  "coursename":"HTML5",
+  "courseprice":3000,
+  "coursedesc":"Course Contains All HTML5Concept Material ",
+   "courseImg":"assets/images/html.jpg"
+},
+{
+  "courseid":"aws",
+  "coursename":"AWS",
+  "courseprice":4000,
+  "coursedesc":"Course Contains All AWSConcept Material ",
+  "courseImg":"assets/images/Aws.jpg"
+},
+{
+
+    "courseid":"angular",
+    "coursename":"Angular",
+    "courseprice":5000,
+    "coursedesc":"Course Contains All AngularConcept Material ",
+    "courseImg":"assets/images/Angular.jpg"
+}
+]

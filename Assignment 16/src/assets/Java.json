@@ -1,0 +1,22 @@
+[{
+  "courseid":"javascript",
+  "coursename":"JavaScript",
+  "courseprice":4000,
+  "coursedesc":"Course Contains All SpringBoot Material",
+  "courseImg":"assets/images/javascript.jpg"
+
+},
+{  "courseid":"oops",
+  "coursename":"Oops",
+  "courseprice":5000,
+  "coursedesc":"Course Contains All Oops Material",
+  "courseImg":"assets/images/oop.jpg"
+},
+{  "courseid":"jdbc",
+  "coursename":"Jdbc",
+  "courseprice":6000,
+  "coursedesc":"Course Contains All jdbc Material",
+  "courseImg":"assets/images/jdbc.jpg"
+}
+]
+
